@@ -1,8 +1,5 @@
 # One Pace To Plex 
 
-## SCRIPT IN PROGRESS
-The bash script has about 800 lines so far. I need to do more testing before making it available. But you can read the rest to understand what it is about.
-
 ## Purpose
 The bash script (`one_pace_to_plex.sh`) facilitates the organization of downloaded anime episodes from the "One Pace" series into a Plex-compatible directory structure by creating hardlinks from the download directory to the Plex directory. It will still match as One Piece, but everything should be linked accordingly via episode ranges.
 
